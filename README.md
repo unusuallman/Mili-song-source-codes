@@ -9,9 +9,9 @@ Mili歌曲背景中显示的转录源代码。
 
 是在 原作者[@ Shuichi Sato](https://github.com/syuchan1005) 的 [Mili-world-execute-me](https://github.com/syuchan1005/Mili-world-execute-me.git) 基础上改进的
 
-
-| source code                                                                       |                                                                                   YouTube                                                                                    |
-|:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [GodDrinksJava.java](src/goddrinksjava/GodDrinksJava.java)                        |                              [world.execute(me);                       ![](http://img.youtube.com/vi/ESx_hy1n7HA/0.jpg)](https://www.youtube.com/watch?v=ESx_hy1n7HA)                              |
-| [sustainPlusPlus_ending_ver.java](src/extraLarge/sustainPlusPlus_ending_ver.java) | [Mili - sustain++; (ending ver.) / Ghost In The Shell: SAC_2045 Ending Theme ![](https://img.youtube.com/vi/Wu4fVGsEn8s/0.jpg)](https://www.youtube.com/watch?v=Wu4fVGsEn8s) |
-| [sustainPlusPlus.java](src/extraLarge/sustainPlusPlus.java)                       |        [Mili - sustain++; / Ghost In The Shell: SAC_2045 Ending Theme ![](https://img.youtube.com/vi/JHY0PYZXvfU/0.jpg)](https://www.youtube.com/watch?v=JHY0PYZXvfU)        |
+---
+| source code| YouTube |
+|:--------------------------|-----------------------------:|
+| [GodDrinksJava.java](src/goddrinksjava/GodDrinksJava.java) | [world.execute(me);](https://www.youtube.com/watch?v=ESx_hy1n7HA) |
+| [sustainPlusPlus_ending_ver.java](src/extraLarge/sustainPlusPlus_ending_ver.java) | [Mili - sustain++; (ending ver.)](https://www.youtube.com/watch?v=Wu4fVGsEn8s) |
+| [sustainPlusPlus.java](src/extraLarge/sustainPlusPlus.java) |  [Mili - sustain++;](https://www.youtube.com/watch?v=JHY0PYZXvfU) |
